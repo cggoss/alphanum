@@ -1,6 +1,6 @@
 {
-  "name": "alphanum",
-  "version": "1.0.0",
+  "name": "@cggoss/alphanum",
+  "version": "1.2.0-snapshot.1",
   "description": "Alphanum sorter based on Dave Koelle algorithm",
   "main": "alphanum.js",
   "scripts": {
